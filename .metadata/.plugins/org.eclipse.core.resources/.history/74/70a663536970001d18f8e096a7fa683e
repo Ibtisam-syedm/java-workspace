@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+/**
+ * @author Muhammad Ibtisam
+ *
+ */
+module tcp_socket {
+	requires java.sql;
+	requires org;
+}
